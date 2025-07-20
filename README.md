@@ -8,7 +8,9 @@
 
 - 📂 `weather-tracker/` — A basic web server that fetches live weather data from OpenWeather API.
 - 📂 `otp-clipboard` 
-- 📂 `password-generator` 
+- 📂 `password-generator`
+- 📂 `port-scanner`
+- 📂 `status-checker` 
 
 ---
 
