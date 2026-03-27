@@ -25,3 +25,8 @@ func main(){
 	result := twoSum(arr, target)
 	fmt.Println("Indices", result)
 }
+
+
+
+
+
